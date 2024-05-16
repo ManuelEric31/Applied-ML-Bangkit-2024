@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221152985593",
+    "project_id": "fb-ml-dicoding",
+    "storage_bucket": "fb-ml-dicoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221152985593:android:f0fd10129e59dfef473d28",
+        "android_client_info": {
+          "package_name": "com.dicoding.tfliteprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKVshTDKoCSTQeDJmfYCEebcHcsuxJXUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize.</string>
+    <string name="empty_image_warning">Silahkan masukkan berkas gambar terlebih dahulu!</string>
+    <string name="newsTitle">Title</string>
+    <string name="descNews">Description</string>
+    <string name="listHistory">Check Up History</string>
+    <string name="fabHistory">History FAB</string>
+    <string name="article">Articles</string>
+    <string name="listNews">Cancer News</string>
+    <string name="toast_add_favorite">Data has been added to history!</string>
+    <string name="toast_delete_favorite">Data has been deleted from history!</string>
+    <string name="analayzeTitle">Analayze Title</string>
+    <string name="history">History</string>
+    <string name="landing">Welcome to CancerCare</string>
+    <string name="previewImageCancer">Preview Image Cancer</string>
+    <string name="splash_description">Splash Screen CancerCare</string>
+    <string name="failed_to_loaded">Data failed to load!</string>
+    <string name="log_insert_history">Inserting value history user: %1$s</string>
+    <string name="resultImage">Result View From Gallery</string>
+    <string name="imageViewNewsProfile">Image Views Profile Item</string>
+    <string name="label_result">Result: %1$s\n</string>
+    <string name="label_confidence">Confidence Score: %1$s</string>
+    <string name="result_text">%1$s%2$s</string>
+</resources>
